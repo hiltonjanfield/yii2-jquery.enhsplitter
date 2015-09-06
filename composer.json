@@ -1,0 +1,25 @@
+{
+  "name": "hiltonjanfield/yii2-jquery.enhsplitter",
+  "description": "Yii2 Extension for jQuery Enhanced Splitter Plugin",
+  "keywords": [
+    "yii2",
+    "jQuery",
+    "splitter"
+  ],
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Hilton Janfield",
+      "email": "hilton@janfield.ca"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*",
+    "bower-asset/jquery.enhsplitter": ">=1.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "hiltonjanfield\\enhsplitter\\": ""
+    }
+  }
+}
